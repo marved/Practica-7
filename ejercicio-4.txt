@@ -1,0 +1,1 @@
+No se puede expresar la restricción de que varios músicos pueden tener la misma dirección,y por lo tanto, también mismo teléfono.
